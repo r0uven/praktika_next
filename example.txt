@@ -1,0 +1,22 @@
+kv: {
+    user:me: {
+        "name": "jorji",
+        "id": 123
+    },
+    user2: {
+        "name": "romul",
+        "id": 2
+    },
+}
+
+kv: {
+    1: {
+        "name": "jorji",
+        "group": "A-1",
+        "faculty": "ФИТУ"
+    },
+    2: {
+        "name": "romul",
+        "group": "A-1"
+    },
+}
